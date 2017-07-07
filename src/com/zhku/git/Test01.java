@@ -6,5 +6,6 @@ public class Test01 {
 		System.out.println("我是Test01.。。。。");
 		System.out.println("hello,eclipse");
 		System.out.println("github update 01");
+		System.out.println("local update 01");
 	}
 }
